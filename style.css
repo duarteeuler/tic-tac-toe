@@ -1,0 +1,10 @@
+#container{
+  display: grid;
+  grid-template-columns: 0.2fr 0.2fr 0.2fr;
+  gap: 1vw;
+}
+.square{
+  background-color: rgb(112, 106, 106);
+  width: 20vw;
+  height: 20vw;
+}
